@@ -1,0 +1,202 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+}
+html,body{
+  font-family: roboto,sans-serif,arial;
+  font-size: 16px;
+
+  color:#242424;
+}
+.container{
+  width: 1300px;
+  margin: 0px auto;
+}
+.header{
+  background:#0055a4;
+  padding: 6px;
+}
+.header b{
+  background: #fff;
+  color: red;
+  padding: 10px;
+  font-size: 20px;
+}
+.header marquee{
+  font-size: 20px;
+  color: white;
+  width: 80%
+}
+.logo{
+  height: 70px;
+}
+nav {
+  float:right;
+  padding:25px 0px;
+}
+nav a{
+  color:black;
+  text-decoration: none;
+  font-size: 18px;
+  padding:2px 10px;
+  font-weight:500;
+}
+.slider img{
+  width:100%;
+}
+.bg-color{
+  background: #f0f3fa;
+}
+.main-section{
+  width: 100%;
+  float:left;
+  padding:100px 0px 100px 0px;
+}
+.event{
+  width:32%;
+  margin-right: 1%;
+  float:left;
+  background: white;
+}
+.event i{
+  color:red;
+  font-size:14px;
+}
+.event div{
+  padding: 10px;
+}
+.event .heading{
+  padding: 10px;
+  color:white;
+  background: #0055a4;
+  text-align:center;
+  font-size: 22px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+.event ul li{
+  margin-bottom: 20px;
+  width:100%;
+  float:left;
+  list-style:none;
+}
+.campus-news span{
+  width:80px;
+  float: left; 
+}
+.campus-news h2{
+  font-weight: 600;
+  font-size: 16px;
+}
+.campus-news h6{
+  font-weight: 500;
+  font-size: 13px;
+  color:red;
+}
+.campus-news p{
+  font-size:14px;
+}
+.event-date{
+  background: red;
+  float: left;
+  text-align: center;
+  font-size: 14px;
+  color: white;
+  padding: 8px 12px;
+  margin-right: 10px;
+}
+
+
+
+.heading{
+  font-size: 28px;
+  font-weight: 500;
+  margin-bottom: 30px;
+  color: #0055a4;
+}
+.subhead{
+  font-size: 18px;
+  color: red;
+  font-weight:500;
+}
+.about-us div{
+  width: 45%;
+  float: left;
+  line-height: 30px;
+  font-size: 18px;
+}
+.about-us h4{
+  font-size: 18px;
+  color: red;
+  font-weight:500;
+}
+.about-us p{
+  font-size: 16px;
+  margin-bottom: 20px;
+  padding-right: 30px;
+  line-height: 23px;
+}
+.about-us img{
+  width:50%;
+  float: left;
+}
+.award p{
+  width: 100%;
+  float: left;
+  font-size: 16px;
+}
+.award img{
+  width: 100%;
+}
+.award b{
+  min-width:115px;
+  float: left;
+  margin-bottom: 20px;
+}
+.award h3{
+  font-size: 23px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.chairman img{
+  width: 150px;
+  float: left;
+  margin-right: 10px;
+}
+.chairman h2{
+  font-size: 22px;
+  margin-top: 30px;
+}
+.chairman h4{
+  font-size: 16px;
+  color: red;
+  font-weigh:400 ;
+}
+.gallery img{
+  width: 23.2%;
+  margin-right: 1.5%;
+  margin-bottom: 20px;
+}
+.footer{
+  background: #f0f3fa;
+  padding: 40px 0px;
+  width: 100%;
+  float: left;
+}
+.footer-logo{
+  height: 100px;
+  width: auto;
+}
+.footer-sect{
+  width: 100%;
+  float: left;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 16px;
+}
+.footer-sect a{
+  color: #202020;
+  margin-left: 10px;
+  text-decoration: none;
+}
