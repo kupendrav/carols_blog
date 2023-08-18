@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+.heading{
+  font-size: 28px;
+  font-weight: 500;
+  margin-bottom: 30px;
+  color: #0055a4;
+}
+.about-us div{
+  width: 45%;
+  float: left;
+  line-height: 30px;
+  font-size: 18px;
+}
+.about-us p{
+  font-size: 16px;
+  margin-bottom: 20px;
+  padding-right: 40px;
+  line-height: 23px;
+}
+.about-us img{
+  width:50%;
+  float: right;
+}
