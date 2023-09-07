@@ -20,7 +20,7 @@ body{
   align-items: center;
   flex-direction: column;
   height: 100vh;
-  background: url("image/sky1.jpg");
+  background: url("/image/sky1.jpg");
   background-size: cover;
 
 }
